@@ -1,0 +1,37 @@
+/*body{
+	background-image: url('../img/banner.jpg');
+	background-repeat: repeat-y;
+}*/
+div{
+	/*background-color: rgb(117,38,114);*/
+	background-image: url('../img/bg.jpg');
+	border:2px solid #ffcd42;
+	color:red;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+p{
+	background-color: rgba(117,38,114,0.5);
+	border:2px solid #ffcd42;
+	color:red;
+}
+.myp{
+	/*border-style: inset;
+	border-width: 5px;
+	border-color: red;*/
+	/*border-top: 5px dotted red;
+	border-bottom: 8px inset green;
+	border-left: 10px dashed red;
+	border-right: 5px inset blue;*/
+
+	border: 3px solid green;
+	border-top-left-radius: 10px;
+}
+
+.myDiv{
+	border:1px solid blue;
+	width: 50%;
+	height: 100px;
+}

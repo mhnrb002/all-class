@@ -1,0 +1,100 @@
+ওয়েবসাইট ডিজাইন এন্ড ডেভেলপমেন্ট:
+
+ওয়েবসাইট?
+ওয়েবসাইট হলো সার্ভারে জমাকৃত কিছু ওয়েবপেইজ। 
+
+ওয়েবপেজ কি?
+ওয়েবপেজ হলো একটা নির্দিষ্ট জায়গা, যা টেক্সট, ইমেজ,এ্যানিমেশন, অডিও, ভিডিও ধারন করে রাখে।
+
+উদাহরন:
+বই।
+
+ওয়েবসাইট ডিজাইন এন্ড ডেভেলপমেন্ট:
+
+=> Website Design
+	=> HTML5
+	=> CSS3	
+	=> Javascript
+	=> Jquery
+	=> Bootstrap5
+=> Website Development
+	=> ServerSide Language (php,asp,python,nodejs)
+	=> Database (MySql, MariaDb)
+
+
+1) What is Website?
+2) Why Website?
+3) How website works?
+4) Classification of Website?
+5) Parts Of Website?
+6) What is Static Website?
+7) What is Dynamic Website?
+8) What are the steps to create a website?
+9) What technologies or language should we know for making website?
+
+
+1) ওয়েবসাইট :
+ওয়েবসার্ভারে জমাকৃত কিছু ওয়েবপেজ।
+ওয়েবপেজ:
+ওয়েবপেজ হলো নির্দিষ্ট পেজ যেখানে টেক্সট, ইমেজ, এ্যানিমেশন, অডিও, ভিডিও।
+
+2) ওয়েবসাইট কেন প্রয়োজন:
+	=> সময় বাঁচায়
+	=> বিশ্বস্ততা বাড়ায়
+	=> বিশ্বব্যাপি মার্কেট
+	=> ব্যবসার প্রসার
+	=> খরচ কমায়
+	=> 24/7 সেবা
+
+3) ওয়েবসাইট কিভাবে কাজ করে?
+
+4) ওয়েবসাইটের প্রকারভেদ:
+	=> ই-কমার্স
+	=> সোস্যাল মিডিয়া
+	=> কর্পোরেট 
+	=> কমিউনিটি 
+	=> পার্সোনাল বা পোর্টফোলিও 
+	=> ব্লগ
+ইত্যাদি
+
+
+5) ওয়েবসাইটের অংশ:
+	=> ফ্রন্টএন্ড  (স্ট্যাটিক ওয়েবসাইট)
+	=> ব্যাকএন্ড (এডমিন প্যানেল) (ডায়নামিক ওয়েবসাইট)
+
+
+6) স্ট্যাটিক ওয়েবসাইট:
+
+যে ওয়েবসাইটের কন্টেন্ট পরিবর্তনশীল নয় ।
+
+7) ডায়নামিক ওয়েবসাইট: 
+	
+যে ওয়েবসাইটের কন্টেন্ট পরিবর্তনশীল  ।
+
+
+8) ওয়েবসাইট তৈরীর ধাপসমূহ:
+	=> ওয়েবসাইট ডিজাইন (স্ট্যাটিক ওয়েবসাইট)
+	=> ওয়েবসাইট ডেভেলপমেন্ট (ডায়নামিক ওয়েবসইট)
+
+
+ডিজাইন:
+	1) HTML => structure
+	2) CSS => style up
+	3) Js/Jq => Behaviour Control/Attractive
+	4) Bootstrap 
+
+ডেভেলপমেন্ট:
+	1) ServerSide Language (PHP, ASP, python, Nodejs)
+	2) Database (MySql, MariaDB)
+	
+
+
+
+Md. Shafiqul Islam
+BSC in CSE
+Web Design & Development
+
+01785505351
+www.facebook.com/shafiqulislam.cse
+www.developershafiq.com
+

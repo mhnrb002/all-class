@@ -1,0 +1,183 @@
+HTML:
+
+Hyper text Markup Language.
+
+Tag =>
+
+syntax:
+
+<keyword>
+
+<html>
+
+Tags are two types:
+
+1) container tag
+	start tag => content => End tag
+	<html> your content </html>
+	<p> your content </p>
+2) empty tag
+
+	<img>
+	<br>
+	<hr>
+
+
+Prerequisites:
+
+	1) Computer Basic knowledge
+	2) Editor: Notepad, Notepad++, Sublime Text, Atom
+	3) Browser: Mozila Firefox, Google Chrome
+
+
+Web Page:
+
+	1) head Section=> contain webpage related information.exm: page_name, Author Name, SEO, contain supporting file
+	2) body Section=> contain website content.
+
+
+Standard Website:
+
+	1) SEO Friendly (Search Engine Optimization)
+	2) Standard & validate (w3c valideate)
+	3) UI (user Interface)/UX(User Experience) 
+
+
+HTML Heading:
+
+<h1>.....</h1>
+<h2>.....</h2>
+<h3>.....</h3>
+<h4>.....</h4>
+<h5>.....</h5>
+<h6>.....</h6>
+
+
+HTML Paragraph:
+
+1) <p>.....</p>
+2) <br>
+3) <pre>....</pre> - predefined
+
+
+HTML Comments:
+
+<!-- comments -->
+
+keyboard: ctrl+k
+		  ctrl+shift+k
+		  
+		  
+HTML Formatting:
+
+1) <b>....</b> - bold tag
+2) <strong>...</strong>--- bold important
+
+3) <i>....</i>-- Italic
+4) <em>....</em> -- Emphasize
+
+5) <u>...</u>-- Underline
+6) <ins>..</ins>---Underlin Important
+
+7) <mark>...</mark>--- Highlight text
+
+8) <strike>....</strike>--- StrikeThrough
+9) <del>...</del> -- StrikeThrough
+
+10) <sub>....</sub>--- Subscript
+
+11) <sup>...</sup> -- Superscript
+
+
+HTML Element:
+
+<StartTag> content </EndTag> 
+
+1) Single Element
+		<p>This is a paragraph</p>
+2) Nested Element.
+		<p>This is <b>demo</b> paragraph</p>
+		
+
+HTML Attributes:
+
+	1) Attributes are used for adding additional information to a HTML element.
+	2) syntax: attributes_name = "attributes_value"
+	3) Attributes should write in start tag
+	
+Example:
+
+	<p attributes_name="value">This is example for attributes.</p>
+	
+HTML Style Attributes:
+
+	syntax:
+	
+	attributes_name = "attributes_value"
+	
+	style = "property_name:property_value; property_name:property_value;"
+	
+	
+
+
+HTML Image:
+
+	<img src="path" alt="">
+	
+1) Royality Free
+2) Free image
+
+www.pexels.com
+
+
+HTML Links:
+
+	<a href="" target="_self/_blank">content</a>
+
+1) Internal Link:
+<a href="Page url" target="">content</a>
+		
+2) External Link:
+
+<a href="http://www.facebook.com" target="">Facebook</a>
+
+
+Bookmark:	
+
+
+
+HTML List:
+
+1) Order List
+	<ol>....</ol>
+	<li>...</li>
+
+2) Unorder List
+	<ul>....</ul>
+	<li>...</li>
+	
+	
+HTML Table:
+
+<table>....</table>
+
+<thead>....</thead>
+<tbody>....</tbody>
+
+<tr>....</tr> - table row
+
+<th>.....</th> - table head
+
+<td>.....</td> - table data
+
+
+
+	
+
+
+
+
+
+
+
+
